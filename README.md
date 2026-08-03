@@ -23,9 +23,8 @@ Malik Waqar
 
 ## Progress
 
-- [x] HTML Basics
-- [x] Tables
-- [x] Media
-- [ ] Forms
-- [ ] Lists
-- [ ] Semantic Layout
+- [] HTML Basics
+- [] Tables
+- [] Media
+- [] iframe
+- [] Semantic Layout
